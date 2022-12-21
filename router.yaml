@@ -1,0 +1,6 @@
+plugins:
+  # Add plugin configuration here
+  my_custom_router.my_custom_plugin:
+    message: Starting my plugin
+supergraph:
+  listen: 0.0.0.0:4000
